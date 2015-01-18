@@ -1,1 +1,22 @@
-Начну с того, что этот гайд для тех, у кого компьютер не выше процессора 5 поколения и оперативной памяти порядка 4 ГБ ОЗУ, ибо у кого больше, то у них и так все нормально и вам тут просто делать нечего. Собственно углубленное изучение настроек CS:GO я начал около полугода назад, как только начал играть. Уже пытался делать гайд для повышения ФПС, но в силу еженедельных обновлений он просто потерял свою актуальность, но на то время он работал идеально (ссылку на старый гайд вы сможете найти в моем профиле). Так вот, спустя многое время, долгих изучения настроек игры я сделал некий итог. И этим итогом стали 2 файла, отвечающие за настройки игры - Autoexec.cfg и Video.txt, и конечно же параметры запуска игры, которые играют немалую роль. Собственно о них и пойдем речь в этом гайде.
+"VideoConfig"
+{
+	"setting.cpu_level"		"0"
+	"setting.gpu_level"		"0"
+	"setting.mat_antialias"		"4"
+	"setting.mat_aaquality"		"2"
+	"setting.mat_forceaniso"		"0"
+	"setting.mat_vsync"		"0"
+	"setting.mat_triplebuffered"		"0"
+	"setting.mat_grain_scale_override"		"1"
+	"setting.gpu_mem_level"		"2"
+	"setting.mem_level"		"2"
+	"setting.mat_queue_mode"		"-1"
+	"setting.csm_quality_level"		"1"
+	"setting.mat_software_aa_strength"		"0"
+	"setting.mat_motion_blur_enabled"		"0"
+	"setting.fullscreen"		"1"
+	"setting.defaultres"		"1152"
+	"setting.defaultresheight"		"864"
+	"setting.aspectratiomode"		"0"
+	"setting.nowindowborder"		"0"
+}
