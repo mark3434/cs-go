@@ -23,7 +23,8 @@ Video.txt: https://github.com/mysubcult/cs-go/blob/master/video.txt<br>
 <br>
 <b>Необходимые параметры:</b>
 <hr>
--processheap -high -threads 4 -nod3d9ex -noaafonts +mat_dxlevel 90 +mat_queue_mode 2 +mat_vignette_enable 0
+<b>-processheap -high -threads 4 -nod3d9ex -noaafonts +mat_dxlevel 90 +mat_queue_mode 2 +mat_vignette_enable 0</b>
+<br></b>
 P.S.
 Разрешение в игре вы можете менять на любое, которое вам удобно, но советую не менять уровень теней и сглаживания. Autoexec.cfg советую тоже не трогать, всю информацию, которую вы там можете менять я вывел в начало списка, чтобы вам было удобнее.
 Рейты в Autoexec.cfg выставлены под сервера с 128 тикрейтом, но они автоматически конвертируются в 64 тикрейт на официальных серверах, что не долнжо вызвать проблем. 
