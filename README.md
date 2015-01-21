@@ -8,9 +8,9 @@
 <br>
 <b>Установка</b>
 <hr>
-Чтобы минимально упростить гайд, я просто добавлю сюда ссылки на файлы.
-Autoexec.cfg: https://github.com/mysubcult/cs-go/blob/master/autoexec.cfg
-Video.txt: https://github.com/mysubcult/cs-go/blob/master/video.txt
+Чтобы минимально упростить гайд, я просто добавлю сюда ссылки на файлы.<br>
+Autoexec.cfg: https://github.com/mysubcult/cs-go/blob/master/autoexec.cfg<br>
+Video.txt: https://github.com/mysubcult/cs-go/blob/master/video.txt<br>
 Эти файлы вы должны добавить и заменить в директории: '..\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg'
 <br>
 <b>Параметры запуска</b>
