@@ -20,6 +20,7 @@ Video.txt: https://github.com/mysubcult/cs-go/blob/master/video.txt<br>
 Огромную роль при всем при этом играют параметры запуска, ниже я приведу пример параметров запуска, которые стоят у меня:
 -processheap -novid -nojoy -high -threads 4 -nod3d9ex -noaafonts +mat_dxlevel 90 +mat_queue_mode 2 +mat_vignette_enable 0
 <br>
+<br>
 <b>Необходимые параметры:</b>
 <hr>
 -processheap -high -threads 4 -nod3d9ex -noaafonts +mat_dxlevel 90 +mat_queue_mode 2 +mat_vignette_enable 0
