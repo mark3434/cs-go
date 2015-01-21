@@ -25,11 +25,13 @@ Video.txt: https://github.com/mysubcult/cs-go/blob/master/video.txt<br>
 <hr>
 <b>-processheap -high -threads 4 -nod3d9ex -noaafonts +mat_dxlevel 90 +mat_queue_mode 2 +mat_vignette_enable 0</b>
 <br></b>
+<br>
 P.S.
 Разрешение в игре вы можете менять на любое, которое вам удобно, но советую не менять уровень теней и сглаживания. Autoexec.cfg советую тоже не трогать, всю информацию, которую вы там можете менять я вывел в начало списка, чтобы вам было удобнее.
 Рейты в Autoexec.cfg выставлены под сервера с 128 тикрейтом, но они автоматически конвертируются в 64 тикрейт на официальных серверах, что не долнжо вызвать проблем. 
 Raw Input или "прямой" ввод мыши: исходя из моих личных наблюдений советую оставить значение m_rawinput равное нулю, т.е. "m_rawinput 0". Подробнее об этом вы можете прочитать тут: http://www.reddit.com/r/GlobalOffensive/comments/1f8km4/csgo_raw_input_faulty/
 Так же советую еще установить фикс для мышки по ссылке: http://donewmouseaccel.blogspot.com/2010/03/markc-windows-7-mouse-acceleration-fix.html
+<br>
 <br>
 <b>Заключение</b>
 <hr>
